@@ -1,4 +1,4 @@
-use snippet_rs::*;
+use snippets_rs::*;
 
 #[test]
 fn get_string() {
