@@ -4,7 +4,7 @@
 ![Language](https://img.shields.io/badge/lang-Rust-B7410E)
 [![Licenses](https://img.shields.io/crates/l/snippets-rs)](#license)
 [![Crates.io](https://img.shields.io/crates/v/snippets-rs)](https://crates.io/crates/snippets-rs)
-[![Docs.rs](https://img.shields.io/docsrs/snippets-rs)](https://docs.rs/snippets-rs/latest/snippets-rs/)
+[![Docs.rs](https://img.shields.io/docsrs/snippets-rs)](https://docs.rs/snippets-rs/latest/snippets_rs/)
 
 The snippets file format is a human-readable format for storing strings, which makes it perfect for developpers.
 
